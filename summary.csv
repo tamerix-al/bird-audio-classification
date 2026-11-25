@@ -1,0 +1,4 @@
+experiment,classes,segmentation,test_n,accuracy,macro_f1,evidence,evaluation_unit
+final_notebook_cnn15,15,uniform,1446,0.4557399723374827,0.45613129605015507,saved output,segment
+final_notebook_cnn10,10,uniform,939,0.5601703940362087,0.5578679201338509,saved output,segment
+active_segmentation,10,top RMS,1154,0.7400346620450606,0.748676681614646,markdown and saved plot; n from adjacent log,segment
